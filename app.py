@@ -68,12 +68,6 @@ def display(name):
     print(dish)
     return render_template('display.html', dish=dish)
 
-
-
-
-
-
-
 def top_dish_helper():
     incomplete = Item.query.filter_by(complete=False).all()
     ing = []
