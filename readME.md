@@ -3,7 +3,7 @@ Cookify is a responsive web application, combining a grocery list app and a cook
 
 The fact that many people start learning to cook food by themself instead of dining out during the COVID-19 pandemic inspires me to come up with the idea for this project.
 
-**Check out this link**: [https://cookify-nwhack-2021.herokuapp.com/] (https://cookify-nwhack-2021.herokuapp.com/) 
+**Check out this link**: (https://cookify-nwhack-2021.herokuapp.com/) 
 
 ## How does Cookify works?
 1. Ask a user to create a grocery list 
